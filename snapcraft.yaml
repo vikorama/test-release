@@ -12,7 +12,6 @@ description: |
 
 architectures:
   - build-on: amd64
-  - build-on: armhf
   - build-on: arm64
 
 grade: devel # must be 'stable' to release into candidate/stable channels
