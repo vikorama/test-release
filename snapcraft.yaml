@@ -13,7 +13,7 @@ description: |
 architectures:
   - build-on: amd64
   - build-on: arm64
-
+  - build-on: armhf
 grade: devel # must be 'stable' to release into candidate/stable channels
 confinement: devmode # use 'strict' once you have the right plugs and slots
 
